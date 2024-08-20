@@ -36,7 +36,17 @@ SSD A2000 500GB
   - 显卡安装时把前面板的螺丝拆了一颗,掰开一点才将显卡放入.显卡下面是用胶垫顶住.尽量保持水平. 安装时没拍照,当时我也不确定能行.只能看成品了效果了.
   - 模组线 24pin 和显卡 8pin 换了 20cm 的短线,之前的长线太占空间了
 
-### 待补充图片
+### 开关抠了
+![image](img/92.jpg)
+
+### 24pin 的电源线太长了
+![image](img/93.jpg)
+
+### 改了20cm模组线
+![image](img/94.jpg)
+
+### 开关目前外挂了
+![image](img/95.jpg)
 
 
 ### 测试性能
@@ -59,6 +69,8 @@ SSD A2000 500GB
 ![image](img/88.png)
 ![image](img/99.png)
 ![image](img/90.png)
+![image](img/91.png)
+![image](img/92.png)
 
 ### mac系统
 ![image](img/22.png)
