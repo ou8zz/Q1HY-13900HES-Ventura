@@ -63,7 +63,7 @@ SSD A2000 500GB
 ### 电源功率
 ![image](img/IMG_4929.jpeg)
 
-### 相关测试结果
+### 相关测试结果 超频 负压-165 p54,52,47, e41,40,38
 ![image](img/66.png)
 ![image](img/77.png)
 ![image](img/88.png)
@@ -76,3 +76,10 @@ SSD A2000 500GB
 ![image](img/22.png)
 ![image](img/33.png)
 ![image](img/44.png)
+### 在黑苹果系统里面,单核性能比 windows 低
+### 更新EFI 去掉 SMCLightSensor.kext(这个对我无用) CpuTopologyRebuild.kext(大小和调度) 单核性能得到提升,多核心不影响
+![image](img/fix97.jpg)
+
+### 超频 负压-35  p55,53,51, e43,42,41
+![image](img/oc96.jpg)
+![image](img/oc97.png)
